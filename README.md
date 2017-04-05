@@ -8,7 +8,7 @@ Candidate: Dominic Monn
 
 Person in charge: Fabio A. Camichel
 
-Experts: Luzi Stamm and Dinesh Rajakaruna
+Experts: Luzi Stadler and Dinesh Rajakaruna
 
 
 ## Technical Overview
