@@ -16,3 +16,6 @@ settings.py
 
 # VirtualEnv
 venv
+
+# Static files
+src/static/*
